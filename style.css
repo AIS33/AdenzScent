@@ -6,6 +6,9 @@
   font-family: "Mulish", sans-serif;
 }
 
+
+
+
 .banner {
   width: 100%;
   height: 100vh;
@@ -119,13 +122,7 @@
   transition: 0.5s;
 }
 
-button:hover span {
-  width: 100%;
-}
 
-button:hover {
-  border: none;
-}
 
 /* PRODUCTS */
 .product {
